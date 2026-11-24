@@ -4,7 +4,7 @@
 
 ### One platform where many organisations run training together, each with its own permissions
 
-**Delivered through:** TitanEd Services (custom software solutions) for an international training network &nbsp;·&nbsp; **My role:** Software Engineer at TitanEd (admin portal and public website) &nbsp;·&nbsp; **May 2026 – Present**
+**Delivered through:** TitanEd Services for an international training network &nbsp;·&nbsp; **My role:** Software Engineer at TitanEd (admin portal and public website) &nbsp;·&nbsp; **May 2026 – Present**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Open edX](https://img.shields.io/badge/Open%20edX-02262B?style=flat)
@@ -12,7 +12,7 @@
 
 </div>
 
-> **Note:** this project was delivered through TitanEd Services (custom software solutions). Its code and data are private and are not shared here. This repository only describes my role and the kind of features I built.
+> **Note:** this project was delivered through TitanEd Services. Its code and data are private and are not shared here. This repository only describes my role and the kind of features I built.
 
 ---
 
